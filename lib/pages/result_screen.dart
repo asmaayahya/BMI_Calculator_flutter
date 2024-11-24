@@ -10,7 +10,7 @@ class ResultScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFF0B0C20),
+      backgroundColor: Color(0xFF201E33),
       appBar: AppBar(
         backgroundColor: Color(0xFF0B0C20),
         title: Text(
